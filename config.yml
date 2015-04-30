@@ -1,5 +1,3 @@
-# Variables & Global
 name: Prologue by HTML5 UP
-
-# Server Configs
+markdown: redcarpet
 baseurl: /jekyll-theme
